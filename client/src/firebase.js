@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAMP_KLixuOPJMbTEL845f6uWbOTbdc8jU",
-  authDomain: "realtor-d1dd5.firebaseapp.com",
-  projectId: "realtor-d1dd5",
-  storageBucket: "realtor-d1dd5.appspot.com",
-  messagingSenderId: "1069919145623",
-  appId: "1:1069919145623:web:83396f3cdf40e85bfce3d2"
+  apiKey: "AIzaSyCT04d75tdL_hbdwMnmHceMJkwTvEzlo9k",
+  authDomain: "realtor-e95b4.firebaseapp.com",
+  projectId: "realtor-e95b4",
+  storageBucket: "realtor-e95b4.appspot.com",
+  messagingSenderId: "863663197039",
+  appId: "1:863663197039:web:95cd230b2e8b382b9d769a"
 };
 
 // Initialize Firebase
